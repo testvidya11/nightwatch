@@ -1,6 +1,6 @@
 {
   "src_folders" : ["./examples/tests"],
-  "output_folder" : "./examples/reports",
+  "output_folder" : "./shippable/testresults",
   "custom_commands_path" : "",
   
   "selenium" : {
